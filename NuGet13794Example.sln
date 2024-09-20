@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet13794Example", "NuGet13794Example.csproj", "{5057F450-BDC9-4831-BA8B-65168987019B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		DebugNoCond|Any CPU = DebugNoCond|Any CPU
+		DebugNoCond|x64 = DebugNoCond|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Debug|x64.ActiveCfg = Debug|x64
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Debug|x64.Build.0 = Debug|x64
+		{5057F450-BDC9-4831-BA8B-65168987019B}.DebugNoCond|Any CPU.ActiveCfg = DebugNoCond|Any CPU
+		{5057F450-BDC9-4831-BA8B-65168987019B}.DebugNoCond|Any CPU.Build.0 = DebugNoCond|Any CPU
+		{5057F450-BDC9-4831-BA8B-65168987019B}.DebugNoCond|x64.ActiveCfg = DebugNoCond|x64
+		{5057F450-BDC9-4831-BA8B-65168987019B}.DebugNoCond|x64.Build.0 = DebugNoCond|x64
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Release|x64.ActiveCfg = Release|x64
+		{5057F450-BDC9-4831-BA8B-65168987019B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F1B92A-E5DD-4A06-83B1-1FCCF57C1B91}
+	EndGlobalSection
+EndGlobal
